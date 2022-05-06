@@ -2,10 +2,10 @@
 
 <p align="left">
   <img src="https://visitor-badge.glitch.me/badge?page_id=riotertrov97.riotertrov97&left_color=teal&right_color=gray"/>
-<a href="https://www.sumanbasnet.com"><img src="https://img.shields.io/badge/-sumanbasnet.com-6F00FF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/sumanbasnet"><img src="https://img.shields.io/badge/-Suman%20Basnet-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:contact@sumanbasnet.com"><img src="https://img.shields.io/badge/-contact@sumanbasnet.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/reactrove"><img src="https://img.shields.io/badge/-@reactrove-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.sumanbasnet.com" target="_blank"><img src="https://img.shields.io/badge/-sumanbasnet.com-6F00FF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sumanbasnet" target="_blank"><img src="https://img.shields.io/badge/-Suman%20Basnet-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:contact@sumanbasnet.com" target="_blank"><img src="https://img.shields.io/badge/-contact@sumanbasnet.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/reactrove" target="_blank"><img src="https://img.shields.io/badge/-@reactrove-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ✍️ I love the thrill of developing meaningful, reliable, robust and scalable software.</p>
