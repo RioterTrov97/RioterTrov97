@@ -2,11 +2,13 @@
 
 <p align="left">
   <img src="https://visitor-badge.glitch.me/badge?page_id=riotertrov97.riotertrov97&left_color=teal&right_color=gray"/>
-<a href="https://www.sumanbasnet.com"><img src="https://img.shields.io/badge/-sumanbasnet.com-3334C8?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.sumanbasnet.com"><img src="https://img.shields.io/badge/-sumanbasnet.com-a400ff?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/sumanbasnet"><img src="https://img.shields.io/badge/-Suman%20Basnet-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:contact@sumanbasnet.com"><img src="https://img.shields.io/badge/-contact@sumanbasnet.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/reactrove"><img src="https://img.shields.io/badge/-@reactrove-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
+
+<br/>
 
 ✍️ I love the thrill of developing meaningful, reliable, robust and scalable software.</p>
 👀 I’m currently working on several personal projects e.g. algo visualizer, chat apps etc.</p>
@@ -15,72 +17,55 @@
 👯 Later down the line, I’m also looking to collaborate on Cloud Native and Blockchain projects.</p>
 📫 Whether it be just a chat or about projects, I'd love to hear from you. Please feel free to [contact](mailto://contact@sumanbasnet.com) me.</p>
 
+<br/>
+
 ## 🛠 Tech Stack
 
-<p style="display: inline-block;" align="left">
-  <kbd>
-    <kbd>Languages</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  </kbd>
+#### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=orange)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust&logoColor=276DC3)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQLite&logoColor=white)&nbsp;
 
-  
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  </kbd>
-  
-  <kbd>
-    <kbd>Backend</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-plain.svg" />
-  </kbd>
-  
-  <kbd>
-    <kbd>Database</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-  </kbd>
-  <br/>
-  <br/>
-  
-  <kbd>
-    <kbd>System & Networking</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-  </kbd>
-  
-  <kbd>
-    <kbd>Tools</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-    <img width="30px" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" />
-  </kbd>
-</p>
+#### Frontend
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=React)&nbsp;
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-05122A?style=flat&logo=Chakra%20UI)&nbsp;
+![Material UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=Material%20Design&logoColor=white)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+
+#### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL&logoColor=E10098)&nbsp;
+![Serverless](https://img.shields.io/badge/-Serverless-05122A?style=flat&logo=Serverless)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=green)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-05122A?logo=mysql&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/Postgres-05122A?logo=Postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?logo=mongodb&logoColor=green)&nbsp;
+
+#### Infra & Toolings
+![AWS](https://img.shields.io/badge/-AWS-05122A?&logo=Amazon-AWS&logoColor=F90)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?&logo=Linux)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?&logo=Nginx&logoColor=009639)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-05122A?logo=postman&logoColor=F76935)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-05122A?logo=firebase&logoColor=FFCB2C)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira&logoColor=0052CC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+<br/>
 
 ## ⚙️ Github Stats and Streak
 
@@ -89,9 +74,13 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=riotertrov97&show_icons=true&langs_count=4&theme=algolia"" alt="riotertrov97" />
 </p>
 
+<br/>
+
 ## 🏆 GitHub Profile Trophy:
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=riotertrov97&theme=algolia&column=7&margin-w=15&margin-h=15" alt="riotertrov97" />
+
+<br/>
 
 ## 📊 Language Chart
 
