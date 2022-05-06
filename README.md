@@ -8,20 +8,15 @@
 <a href="https://instagram.com/reactrove"><img src="https://img.shields.io/badge/-@reactrove-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-<br/>
-
-✍️ I love the thrill of developing meaningful, reliable, robust and scalable software.</p>
-👀 I’m currently working on several personal projects e.g. algo visualizer, chat apps etc.</p>
-🔭 Besides personal projects, I’m also currently looking at some open source softwares to contribute to.</p>
-🌱 My current curiosity lies in event-driven architecture using even stores and also exploring Rust eco-system.</p>
-👯 Later down the line, I’m also looking to collaborate on Cloud Native and Blockchain projects.</p>
-📫 Whether it be just a chat or about projects, I'd love to hear from you. Please feel free to [contact](mailto://contact@sumanbasnet.com) me.</p>
-
-<br/>
+- ✍️ I love the thrill of developing meaningful, reliable, robust and scalable software.
+- 👀 I’m currently working on several personal projects e.g. algo visualizer, chat apps etc.
+- 🔭 Besides personal projects, I’m also currently looking at some open source softwares to contribute to.
+- 🌱 My current curiosity lies in event-driven architecture using even stores and also exploring Rust eco-system.
+- 👯 Later down the line, I’m also looking to collaborate on Cloud Native and Blockchain projects.
+- 📫 Whether it be just a chat or about projects, I'd love to hear from you. Please feel free to [contact](mailto://contact@sumanbasnet.com) me.
 
 ## 🛠 Tech Stack
 
-#### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)&nbsp;
@@ -31,8 +26,6 @@
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust&logoColor=276DC3)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQLite&logoColor=white)&nbsp;
-
-#### Frontend
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=React)&nbsp;
@@ -41,8 +34,6 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-
-#### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL&logoColor=E10098)&nbsp;
 ![Serverless](https://img.shields.io/badge/-Serverless-05122A?style=flat&logo=Serverless)&nbsp;
@@ -52,8 +43,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?logo=mysql&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/Postgres-05122A?logo=Postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?logo=mongodb&logoColor=green)&nbsp;
-
-#### Infra & Toolings
 ![AWS](https://img.shields.io/badge/-AWS-05122A?&logo=Amazon-AWS&logoColor=F90)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?&logo=Linux)&nbsp;
@@ -65,8 +54,6 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-<br/>
-
 ## ⚙️ Github Stats and Streak
 
 <p align="left">
@@ -74,13 +61,9 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=riotertrov97&show_icons=true&langs_count=4&theme=algolia"" alt="riotertrov97" />
 </p>
 
-<br/>
-
 ## 🏆 GitHub Profile Trophy:
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=riotertrov97&theme=algolia&column=7&margin-w=15&margin-h=15" alt="riotertrov97" />
-
-<br/>
 
 ## 📊 Language Chart
 
