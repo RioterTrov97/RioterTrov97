@@ -8,12 +8,12 @@
 <a href="https://instagram.com/reactrove"><img src="https://img.shields.io/badge/-@reactrove-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-- ✍️ I love the thrill of developing meaningful, reliable, robust and scalable software.
-- 👀 I’m currently working on several personal projects e.g. algo visualizer, chat apps etc.
-- 🔭 Besides personal projects, I’m also currently looking at some open source softwares to contribute to.
-- 🌱 My current curiosity lies in event-driven architecture using event stores and also exploring Rust eco-system.
-- 👯 Later down the line, I’m also looking to collaborate on Cloud Native and Blockchain projects.
-- 📫 Whether it be just a chat or about projects, I'd love to hear from you. Please feel free to [contact](mailto://contact@sumanbasnet.com) me.
+<p> ✍️ I love the thrill of developing meaningful, reliable, robust and scalable software. </p>
+<p> 👨‍💻 I’m currently working on several personal projects e.g. algo visualizer, chat apps etc. </p>
+<p> 👀 Besides personal projects, I’m also currently looking at some open source softwares to contribute to. </p>
+<p> 🤔 My current curiosity lies in event-driven architecture using event stores and also exploring Rust eco-system. </p>
+<p> 👯 Later down the line, I’m also looking to collaborate on Cloud Native and Blockchain projects. </p>
+<p> 📫 Whether it be just a chat or about projects, I'd love to hear from you. Please feel free to [contact](mailto://contact@sumanbasnet.com) me. </p>
 
 ## 🛠 Tech Stack
 
