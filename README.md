@@ -58,7 +58,7 @@
 
 <p align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=riotertrov97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="riotertrov97" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=riotertrov97&show_icons=true&langs_count=4&theme=algolia"" alt="riotertrov97" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=riotertrov97&show_icons=true&langs_count=4&theme=algolia" alt="riotertrov97" />
 </p>
 
 ## 🏆 GitHub Profile Trophy:
@@ -71,3 +71,9 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riotertrov97&layout=compact&theme=algolia" alt="riotertrov97" />
   <img width="25%" height="174px" src="https://github.com/RioterTrov97/RioterTrov97/blob/main/coder.gif" alt="riotertrov97" />
 </p>
+
+#### 🌱 My Latest Projects
+
+- [RioterTrov97/take-home-contacts-cli-app](https://github.com/RioterTrov97/take-home-contacts-cli-app) - 
+- [RioterTrov97/algo-visualizer-react](https://github.com/RioterTrov97/algo-visualizer-react) - 
+- [RioterTrov97/webpack-react-config](https://github.com/RioterTrov97/webpack-react-config) - 
