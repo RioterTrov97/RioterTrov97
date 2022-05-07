@@ -72,8 +72,9 @@
   <img width="25%" height="174px" src="https://github.com/RioterTrov97/RioterTrov97/blob/main/coder.gif" alt="riotertrov97" />
 </p>
 
-#### 🌱 My Latest Projects
+## 🌱 My Latest Projects
 
-- [RioterTrov97/take-home-contacts-cli-app](https://github.com/RioterTrov97/take-home-contacts-cli-app) - 
-- [RioterTrov97/algo-visualizer-react](https://github.com/RioterTrov97/algo-visualizer-react) - 
-- [RioterTrov97/webpack-react-config](https://github.com/RioterTrov97/webpack-react-config) - 
+
+- [RioterTrov97/take-home-contacts-cli-app](https://github.com/RioterTrov97/take-home-contacts-cli-app) - CLI contact app with SQLITE db
+- [RioterTrov97/algo-visualizer-react](https://github.com/RioterTrov97/algo-visualizer-react) - visualizer for path and maze algorithms
+- [RioterTrov97/webpack-react-config](https://github.com/RioterTrov97/webpack-react-config) - custom webpack and react configuration
