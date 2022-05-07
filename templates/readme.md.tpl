@@ -72,7 +72,8 @@
   <img width="25%" height="174px" src="https://github.com/RioterTrov97/RioterTrov97/blob/main/coder.gif" alt="riotertrov97" />
 </p>
 
-#### 🌱 My Latest Projects
+## 🌱 My Latest Projects
+
 {{range recentRepos 3}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
