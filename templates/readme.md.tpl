@@ -58,7 +58,7 @@
 
 <p align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=riotertrov97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="riotertrov97" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=riotertrov97&show_icons=true&langs_count=4&theme=algolia"" alt="riotertrov97" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=riotertrov97&show_icons=true&langs_count=4&theme=algolia" alt="riotertrov97" />
 </p>
 
 ## 🏆 GitHub Profile Trophy:
