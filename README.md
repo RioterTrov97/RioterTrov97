@@ -69,12 +69,12 @@
 
 <p align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riotertrov97&layout=compact&theme=algolia" alt="riotertrov97" />
-  <img width="25%" height="174px" src="https://github.com/RioterTrov97/RioterTrov97/blob/main/coder.gif" alt="riotertrov97" />
+  <img width="25%" height="174px" src="https://github.com/RioterTrov97/RioterTrov97/blob/main/assets/coder.gif" alt="riotertrov97" />
 </p>
 
 ## 🌱 My Latest Projects
 
 
-- [RioterTrov97/take-home-contacts-cli-app](https://github.com/RioterTrov97/take-home-contacts-cli-app) - CLI contact app with SQLITE db
-- [RioterTrov97/algo-visualizer-react](https://github.com/RioterTrov97/algo-visualizer-react) - visualizer for path and maze algorithms
-- [RioterTrov97/webpack-react-config](https://github.com/RioterTrov97/webpack-react-config) - custom webpack and react configuration
+- [RioterTrov97/take-home-contacts-cli-app](https://github.com/RioterTrov97/take-home-contacts-cli-app) - A command line contacts app using sqlite db
+- [RioterTrov97/algo-visualizer-react](https://github.com/RioterTrov97/algo-visualizer-react) - A visualizer for path and maze algorithms
+- [RioterTrov97/webpack-react-config](https://github.com/RioterTrov97/webpack-react-config) - A custom webpack and react configuration for personal projects
