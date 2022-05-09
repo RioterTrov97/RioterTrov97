@@ -79,6 +79,7 @@
 - [RioterTrov97/algo-visualizer-react](https://github.com/RioterTrov97/algo-visualizer-react) - A visualizer for path and maze algorithms
 - [RioterTrov97/webpack-react-config](https://github.com/RioterTrov97/webpack-react-config) - A custom webpack and react configuration for personal projects
 
-## 🔭 Latest releases I've contributed to
+## 🔭 My Latest Contributions
 
 
+- [RioterTrov97/webpack-react-config](https://github.com/RioterTrov97/webpack-react-config) ([release](https://github.com/RioterTrov97/webpack-react-config/releases/tag/release), today) - A custom webpack and react configuration for personal projects
