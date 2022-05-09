@@ -78,7 +78,7 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-## 🔭 Latest releases I've contributed to
+## 🔭 My Latest Contributions
 
 {{range recentReleases 3}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
