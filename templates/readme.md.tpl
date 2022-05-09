@@ -13,7 +13,8 @@
 <p> 👀 Besides personal projects, I’m also currently looking at some open source softwares to contribute to. </p>
 <p> 🤔 My current curiosity lies in event-driven architecture using event stores and also exploring Rust eco-system. </p>
 <p> 👯 Later down the line, I’m also looking to collaborate on Cloud Native and Blockchain projects. </p>
-<p> 📫 Whether it be just a chat or about projects, I'd love to hear from you. Please feel free to [contact](mailto://contact@sumanbasnet.com) me. </p>
+
+📫 Whether it be just a chat or about projects, I'd love to hear from you. Please feel free to [contact](mailto://contact@sumanbasnet.com) me.
 
 ## 🛠 Tech Stack
 
