@@ -83,4 +83,4 @@
 ## 🔭 My Latest Contributions
 
 
-- [RioterTrov97/webpack-react-config](https://github.com/RioterTrov97/webpack-react-config) ([release](https://github.com/RioterTrov97/webpack-react-config/releases/tag/release), 1 day ago) - A custom webpack and react configuration for personal projects
+- [RioterTrov97/webpack-react-config](https://github.com/RioterTrov97/webpack-react-config) ([release](https://github.com/RioterTrov97/webpack-react-config/releases/tag/release), 2 days ago) - A custom webpack and react configuration for personal projects
