@@ -9,7 +9,7 @@
 </p>
 
 <p> ✍️ I love the thrill of developing meaningful, reliable, robust and scalable software. </p>
-<p> 👨‍💻 I’m currently working on several personal projects e.g. algo visualizer, chat apps etc. </p>
+<p> 👨‍💻 I’m currently working on several personal projects e.g. algo visualizer, animated portfolio etc. </p>
 <p> 👀 Besides personal projects, I’m also currently looking at some open source softwares to contribute to. </p>
 <p> 🤔 My current curiosity lies in event-driven architecture using event stores and also exploring Rust eco-system. </p>
 <p> 👯 Later down the line, I’m also looking to collaborate on Cloud Native and Blockchain projects. </p>
