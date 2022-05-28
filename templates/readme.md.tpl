@@ -70,7 +70,7 @@
 
 <p align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riotertrov97&layout=compact&theme=algolia" alt="riotertrov97" />
-  <img width="25%" height="174px" src="https://github.com/RioterTrov97/RioterTrov97/blob/main/assets/coder.gif" alt="riotertrov97" />
+  <img width="25%" height="180px" src="https://github.com/RioterTrov97/RioterTrov97/blob/main/assets/coder.gif" alt="riotertrov97" />
 </p>
 
 ## 🌱 My Latest Projects
