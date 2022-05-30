@@ -84,4 +84,4 @@
 
 
 - [RioterTrov97/node-redis-mongo-docker-app](https://github.com/RioterTrov97/node-redis-mongo-docker-app) ([1.0.1](https://github.com/RioterTrov97/node-redis-mongo-docker-app/releases/tag/1.0.1), 1 week ago) - This is a simple blog app api created using Node js, integrated redis for session &amp; mongodb for storage and also includes the docker config to deploy in the cloud.
-- [RioterTrov97/webpack-react-config](https://github.com/RioterTrov97/webpack-react-config) ([release](https://github.com/RioterTrov97/webpack-react-config/releases/tag/release), 2 weeks ago) - A custom webpack and react configuration for personal projects
+- [RioterTrov97/webpack-react-config](https://github.com/RioterTrov97/webpack-react-config) ([release](https://github.com/RioterTrov97/webpack-react-config/releases/tag/release), 3 weeks ago) - A custom webpack and react configuration for personal projects
