@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there! I'm Suman!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="20px"> Hey there! I'm Suman!
 
 <p align="left">
   <img src="https://visitor-badge.glitch.me/badge?page_id=riotertrov97.riotertrov97&left_color=teal&right_color=gray"/>
