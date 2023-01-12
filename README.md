@@ -76,11 +76,11 @@
 ## 🌱 My Latest Projects
 
 
-- [RioterTrov97/swordy-2d-fighting-game](https://github.com/RioterTrov97/swordy-2d-fighting-game) - 
-- [RioterTrov97/take-home-contacts-cli-app](https://github.com/RioterTrov97/take-home-contacts-cli-app) - A command line contacts app using sqlite db
-- [RioterTrov97/algo-visualizer-react](https://github.com/RioterTrov97/algo-visualizer-react) - A visualizer for path and maze algorithms
+- [RioterTrov97/mini-3D-car-game](https://github.com/RioterTrov97/mini-3D-car-game) - Just a learning exercise from youtube video and adding my own bits and pieces into it.
+- [RioterTrov97/basic-3d-sphere](https://github.com/RioterTrov97/basic-3d-sphere) - Learning to render 3D objects
+- [RioterTrov97/swordy-2d-fighting-game](https://github.com/RioterTrov97/swordy-2d-fighting-game) - 2 player - 2D fighting game
 
 ## 🔭 My Latest Contributions
 
 
-- [RioterTrov97/node-redis-mongo-docker-app](https://github.com/RioterTrov97/node-redis-mongo-docker-app) ([1.0.1](https://github.com/RioterTrov97/node-redis-mongo-docker-app/releases/tag/1.0.1), 7 months ago) - This is a simple blog app api created using Node js, integrated redis for session &amp; mongodb for storage and also includes the docker config to deploy in the cloud.
+- [RioterTrov97/node-redis-mongo-docker-app](https://github.com/RioterTrov97/node-redis-mongo-docker-app) ([1.0.1](https://github.com/RioterTrov97/node-redis-mongo-docker-app/releases/tag/1.0.1), 8 months ago) - This is a simple blog app api created using Node js, integrated redis for session &amp; mongodb for storage and also includes the docker config to deploy in the cloud.
