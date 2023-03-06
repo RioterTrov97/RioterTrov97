@@ -76,7 +76,7 @@
 ## 🌱 My Latest Projects
 
 
-- [RioterTrov97/portfolio-2023](https://github.com/RioterTrov97/portfolio-2023) - 
+- [RioterTrov97/portfolio-2023](https://github.com/RioterTrov97/portfolio-2023) - Personal portfolio
 - [RioterTrov97/mini-3D-car-game](https://github.com/RioterTrov97/mini-3D-car-game) - Just a learning exercise from youtube video and adding my own bits and pieces into it.
 - [RioterTrov97/basic-3d-sphere](https://github.com/RioterTrov97/basic-3d-sphere) - Learning to render 3D objects
 
