@@ -83,4 +83,3 @@
 ## 🔭 My Latest Contributions
 
 
-- [RioterTrov97/node-redis-mongo-docker-app](https://github.com/RioterTrov97/node-redis-mongo-docker-app) ([1.0.1](https://github.com/RioterTrov97/node-redis-mongo-docker-app/releases/tag/1.0.1), 1 year ago) - This is a simple blog app api created using Node js, integrated redis for session &amp; mongodb for storage and also includes the docker config to deploy in the cloud.
