@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="20px"> Hey there! I'm Suman!
 
 <p align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=riotertrov97.riotertrov97&left_color=teal&right_color=gray"/>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FRioterTrov97%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRioterTrov97%2F&label=Visitors&labelColor=%23000000&countColor=%23555555" /></a>
 <a href="https://www.sumanbasnet.com"><img src="https://img.shields.io/badge/-sumanbasnet.com-a400ff?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/sumanbasnet"><img src="https://img.shields.io/badge/-Suman%20Basnet-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:contact@sumanbasnet.com"><img src="https://img.shields.io/badge/-contact@sumanbasnet.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -58,19 +58,20 @@
 ## ⚙️ Github Stats and Streak
 
 <p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=riotertrov97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="riotertrov97" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=riotertrov97&show_icons=true&langs_count=4&theme=algolia" alt="riotertrov97" />
+  <img width="49%" height="250px" src="https://github-stats-extended.vercel.app/api?username=riotertrov97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="riotertrov97" />
+  <img width="49%" height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=riotertrov97&show_icons=true&langs_count=4&theme=algolia" alt="riotertrov97" />
 </p>
 
 ## 🏆 GitHub Profile Trophy:
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=riotertrov97&theme=algolia&column=7&margin-w=15&margin-h=15" alt="riotertrov97" />
+<p align="left">
+<img width="500px" height="200px" src="https://trophygithubreadmelang.cybee.dpdns.org/?username=riotertrov97&theme=algolia&column=3&row=1&margin-w=8&margin-h=8" alt="riotertrov97" />
+</p>
 
 ## 📊 Language Chart
 
 <p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riotertrov97&layout=compact&theme=algolia" alt="riotertrov97" />
-  <img width="25%" height="180px" src="https://github.com/RioterTrov97/RioterTrov97/blob/main/assets/coder.gif" alt="riotertrov97" />
+  <img width="49%" height="250px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=riotertrov97&layout=compact&theme=algolia&no-frame=true" alt="riotertrov97" />
+  <img width="350px" height="250px" src="https://github.com/RioterTrov97/RioterTrov97/blob/main/assets/coder.gif" alt="riotertrov97" />
 </p>
 
 ## 🌱 My Latest Projects
@@ -79,7 +80,4 @@
 - [RioterTrov97/portfolio-2023](https://github.com/RioterTrov97/portfolio-2023) - Personal portfolio
 - [RioterTrov97/mini-3D-car-game](https://github.com/RioterTrov97/mini-3D-car-game) - Just a learning exercise from youtube video and adding my own bits and pieces into it.
 - [RioterTrov97/basic-3d-sphere](https://github.com/RioterTrov97/basic-3d-sphere) - Learning to render 3D objects
-
-## 🔭 My Latest Contributions
-
 
