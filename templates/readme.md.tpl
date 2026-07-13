@@ -78,8 +78,3 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-## 🔭 My Latest Contributions
-
-{{range recentReleases 3}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
