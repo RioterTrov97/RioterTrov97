@@ -1,7 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="20px"> Hey there! I'm Suman!
 
 <p align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=riotertrov97.riotertrov97&left_color=teal&right_color=gray"/>
 <a href="https://www.sumanbasnet.com"><img src="https://img.shields.io/badge/-sumanbasnet.com-a400ff?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/sumanbasnet"><img src="https://img.shields.io/badge/-Suman%20Basnet-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:contact@sumanbasnet.com"><img src="https://img.shields.io/badge/-contact@sumanbasnet.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -58,18 +57,18 @@
 ## ⚙️ Github Stats and Streak
 
 <p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=riotertrov97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="riotertrov97" />
+  <img width="49%" src="ttps://github-stats-extended.vercel.app/api?username=riotertrov97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="riotertrov97" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=riotertrov97&show_icons=true&langs_count=4&theme=algolia" alt="riotertrov97" />
 </p>
 
 ## 🏆 GitHub Profile Trophy:
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=riotertrov97&theme=algolia&column=7&margin-w=15&margin-h=15" alt="riotertrov97" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=riotertrov97)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 Language Chart
 
 <p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riotertrov97&layout=compact&theme=algolia" alt="riotertrov97" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=riotertrov97&layout=compact&theme=algolia" alt="riotertrov97" />
   <img width="25%" height="180px" src="https://github.com/RioterTrov97/RioterTrov97/blob/main/assets/coder.gif" alt="riotertrov97" />
 </p>
 
