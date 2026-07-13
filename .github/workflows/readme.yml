@@ -2,6 +2,7 @@ name: Update README
 
 on:
   push:
+  workflow_dispatch:
   schedule:
     # Runs daily at 00:00 UTC
     - cron: "0 0 * * *"
